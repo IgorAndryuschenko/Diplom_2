@@ -1,0 +1,1 @@
+{"uuid": "fb656fe1-30f1-47d2-9022-9cec9c7d2db6", "children": ["e991a759-73b1-47c9-b580-ff020ea58c1b"], "befores": [{"name": "auth_user", "status": "passed", "steps": [{"name": "Авторизовать пользователя", "status": "passed", "start": 1749813742595, "stop": 1749813743021}], "start": 1749813742595, "stop": 1749813743021}], "start": 1749813742595, "stop": 1749813743336}
